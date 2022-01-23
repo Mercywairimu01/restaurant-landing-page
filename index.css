@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+} 
+
+
+/* Second work on image*/
+.logo{
+    display: block;
+   
+}
+
+/* Changes the styling of links if necessary */
+li,
+a,
+button {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+}
+
+/* Now start positioning the links and images 
+   according to your convinence */
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.navigate_links {
+    list-style: none;
+}
+
+.navigate_links li {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.navigate_links li a {
+    transition: all 0.3s ease-in-out 0s;
+}
+
+/* Add some transition to make navigation 
+   bar attractive */
+.navigate_links li a:hover {
+    color: greenyellow;
+    border: 2px solid blue;
+    box-shadow: 3px 3px 3px red, 3px 3px 3px blue;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 12px;
+}
+
+button {
+    margin-left: 70px;
+    padding: 9px 12px;
+    border-radius: 15px;
+    background-color: rgb(89, 61, 248);
+    color: rgb(243, 236, 236);
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out 0s;
+}
+
+button:hover {
+    background-color: rgb(219, 221, 81);
+    color: black;
+}
+.landing{
+    display:flex
+    
+
+}
+
+
+
+.section1{
+    position: relative;
+    background: linear-gradient(90deg, #ffff 50%, #ffbf1c 50%);
+    transform:skewX(-10deg) ;
+    height: 110%;
+}
+.section2{
+    display: flex;
+}
+
+ 
