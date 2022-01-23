@@ -4,9 +4,10 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 } 
-html{
-    background: -webkit-linear-gradient(-10deg,#ffff 50%,#ffbf1c 60%);
+.section1{
+    background: -webkit-linear-gradient(-15deg,#ffff 50%,#ffbf1c 60%);
 }
+    
 .logo{
     position: relative;
     max-width: 200px;
@@ -70,7 +71,13 @@ nav ul li a:hover{
 }
 
 .burger{
-    margin-left: 20%;
+    margin-left: 30%;
     margin-top: 10px;
 
+     
 }
+section2{
+    background-color: #e1ebe6;
+    
+}
+
