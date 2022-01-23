@@ -5,7 +5,8 @@
     font-family: 'Poppins', sans-serif;
 } 
 .section1{
-    background:-webkit-linear-gradient(-15deg,#ffff 50%,#ffbf1c 60%);
+    background:-webkit-linear-gradient(-25deg,#ffff 50%,#ffbf1c 60%);
+    
 }
     
 .logo{
@@ -79,10 +80,11 @@ font-weight: bold;
 
 span{
     display:flex;
-justify-content: space-evenly;
+    justify-content: space-evenly;
+   
 }
 p{
-    border-width:10%;
+    border-width:thing;
     padding: 100px;
     margin: 10px;
     border-style:solid line;
@@ -97,4 +99,5 @@ div.section2{
 div.style{
     border-style:solid;
      border-width: thin;
+     padding: 20%;
 }
