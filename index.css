@@ -5,19 +5,20 @@
     font-family: 'Poppins', sans-serif;
 } 
 .section1{
-    background: -webkit-linear-gradient(-15deg,#ffff 50%,#ffbf1c 60%);
+    background:-webkit-linear-gradient(-15deg,#ffff 50%,#ffbf1c 60%);
 }
     
 .logo{
     position:relative;
     max-width: 200px;
+    float:left;
 }
 nav{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     flex-direction: row;
-    height: 100px;
+    height: 10%;
 }
 nav img{
     margin-left: 10px;
@@ -70,20 +71,30 @@ nav ul li a:hover{
 }
 
 .burger{
-    margin-left: 20%;
+    margin-left: 30%;
     margin-top: 10px;
 
      
 }
-div.section2{
 
-    background-color: #e1ebe6;
-}
 span{
     display:flex;
 justify-content: space-evenly;
 }
+p{
+    border-width:100%;
+    padding: 100px;
+    margin: 10px;
+    border-style:solid line;
+}
+div.section2{
+    border: 1px;
+    background-color: #d4ecf5;
+}
 
-i.fas-fa-concierge-bell{
-    display:;
+.fas-fa-concierge-bell{ 
+    padding: 0%;
+    position: relative;
+
+
 }
