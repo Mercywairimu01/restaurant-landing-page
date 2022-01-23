@@ -44,18 +44,18 @@ nav ul li a:hover{
 .landing{
     display: grid;
     align-items: center;
-    grid-template-columns: 400px 1fr;
+    grid-template-columns: 400px 0fr;
     margin-left: 100px;
 }
 .middle{
     font-size: 50px;
 
 }
-.main-content{
+p.main-content{
     font-size: 15px;
-    margin-top: 1px;
-    width: 80%;
-
+    margin-top: 40px;
+    width: 120%;
+font-weight: bold;
 }
 .order{
     font-size: 10px;
@@ -82,19 +82,19 @@ span{
 justify-content: space-evenly;
 }
 p{
-    border-width:100%;
+    border-width:10%;
     padding: 100px;
     margin: 10px;
     border-style:solid line;
 }
 div.section2{
-    border: 1px;
+   
     background-color: #d4ecf5;
 }
-
-.fas-fa-concierge-bell{ 
-    padding: 0%;
-    position: relative;
+   
 
 
+div.style{
+    border-style:solid;
+     border-width: thin;
 }
