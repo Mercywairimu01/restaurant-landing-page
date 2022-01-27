@@ -2,7 +2,15 @@
 #### This is a  description of a resturant landing page.              
 ![burger-landing-page](https://drive.google.com/file/d/1t_UyPpN5r6PDjR8GvJH3GR4EYBNiadAD/view)
 
-#### By Mercy Wambui.
+#### By Mercy Wairimu.
+## Table of contents   
+* Description   
+* Setup Requirements  
+* Requirements   
+* Technologies Used  
+* Support and contact details   
+* License
+
 # Description
 This is an application for a restaurant that serves burgers of various types.It allows prospective customers to make their orders online .
 ## Setup Requirements
@@ -22,7 +30,8 @@ Incse of any issues or concerns please feel free to contact me for help.
  Contant :0755880235   
   Email:Mercy.mambui@student.moringaschool.com
 ## License
-Licensed under the terms of **MIT** Licenses         
-Copyright (c) [2022][Mercy Wambui]     
+Licensed under the terms of **MIT** Licenses 
+   
+Copyright (c) [2022][Mercy Wairimu]     
 ![logo](https://user-images.githubusercontent.com/97962291/150640654-7e2b2a09-2785-402e-a556-6fa01d70d4f7.png)     
   
